@@ -18,7 +18,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
        env:
-    ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
       - run: npm install
       - run: npm run build
 
