@@ -1,2 +1,2 @@
 import("./bootstrap");
-console.log("testa2ndo");
+console.log("testa22ndo");
