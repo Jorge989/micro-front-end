@@ -1,2 +1,2 @@
 import("./bootstrap");
-console.log("s");
+console.log("s2");
